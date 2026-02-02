@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module name="Orbiter">
+  <part>
+    <part_number>ORB001</part_number>
+    <description>Payload Bay</description>
+  </part>
+  <part>
+    <part_number>ORB002</part_number>
+    <description>Main Engines</description>
+  </part>
+  <part>
+    <part_number>ORB003</part_number>
+    <description>Avionics Suite</description>
+  </part>
+</module>

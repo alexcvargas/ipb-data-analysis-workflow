@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module name="Solid Rocket Booster">
+  <part>
+    <part_number>SRB001</part_number>
+    <description>Left Booster</description>
+  </part>
+  <part>
+    <part_number>SRB002</part_number>
+    <description>Right Booster</description>
+  </part>
+</module>

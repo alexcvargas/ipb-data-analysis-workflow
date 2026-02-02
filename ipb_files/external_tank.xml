@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module name="External Tank">
+  <part>
+    <part_number>ET001</part_number>
+    <description>Main Fuel Tank</description>
+  </part>
+  <part>
+    <part_number>ET001</part_number>
+  </part>
+</module>
